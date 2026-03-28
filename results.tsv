@@ -1,0 +1,1 @@
+exp_id	model	quant	n_gpu	n_ctx	batch_size	ubatch_size	n_threads	kv_type	flash_attn	op_offload	tok_s	notes
